@@ -1,6 +1,5 @@
 stevilka1 = int(input("Vnesi prvo številko: "))
 
-#print("Izberi računsko operacijo, ki je lahko +, -, * ali /")
 
 operation = input("Izberi računsko operacijo, ki je lahko +, -, * ali /: ")
 
