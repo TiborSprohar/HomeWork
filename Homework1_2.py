@@ -1,6 +1,6 @@
-secret = "3"
+secret = 3
 
-guess = input("Ugani skrivno številko: ")
+guess = int(input("Ugani skrivno številko: "))
 
 if guess == secret :
     print("Čestitamo!!!!")
